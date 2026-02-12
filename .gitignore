@@ -6,7 +6,7 @@ __pycache__/
 *.pyc
 
 # PyInstallerの生成物（exeなど）を除外
-dist/
+# dist/
 build/
 *.spec
 
